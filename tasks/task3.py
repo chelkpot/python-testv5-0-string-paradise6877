@@ -2,7 +2,13 @@
 
 def solve():
 # Ниже пишите решение задачи
-     
+def concatenate_strings():
+    first = input()
+    second = input()
+    result = second + first
+    print(result)
+
+concatenate_strings()     
 
 
 # Код ниже не трогать! он нужен для тестов
